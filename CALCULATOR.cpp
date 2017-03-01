@@ -5,7 +5,7 @@
 #include<stdlib.h>
 #include"header.cpp"
 int main()
-{ datastack dt,dt2;
+{ datastack dt,dt2;  // USED TWO DATASTACK TO VIEW THE WHOLE DATASTACK AT ONE TIME. AS IN A STACK WE CAN ONLY VIEW THE TOP ELEMENT ,SO USING DATASTACK , I AM POPPING DATA FROM ONE AND STORING INTO OTHER
   Arith a;
   int x,u; 
 do
